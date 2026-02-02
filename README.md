@@ -15,7 +15,7 @@ All team members contribute code while following shared Git and GitHub workflows
 ## 🛠 Technologies Used
 - Git
 - GitHub
-- JavaScript (if applicable)
+- JavaScript 
 - Node.js / Express / React (if applicable)
 
 ---
